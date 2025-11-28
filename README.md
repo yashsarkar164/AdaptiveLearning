@@ -36,8 +36,8 @@ This is **not a full product**—just a **working prototype** built for the GUVI
 ### **1. Clone the repository**
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/yashsarkar164/AdaptiveLearning.git
+cd AdaptiveLearning
 ```
 
 ### **2. Install dependencies**
